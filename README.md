@@ -6,12 +6,9 @@
 <br>
 
 ### :love_letter: Who am I :love_letter:
-<div style="display:flex; flex-direction:row;">
-    - ✏ Majored in Statistics of Information belongs to SW convergence college,  Bachelor's degree
-    <br>
-    - 🍀 Data Analysis, Data Visualization, Machine Learning (ML), Deep Learning (DL), AI, Database, OS, SPSS, R, Django, Keras ...
-</div>
-<br>
+- ✏ Majored in Statistics of Information belongs to SW convergence college,  Bachelor's degree
+- 🍀 Data Analysis, Data Visualization, Machine Learning (ML), Deep Learning (DL), AI, Database, OS, SPSS, R, Django, Keras ...
+
 
 ### 🔨 Once I've used 🔨
 
