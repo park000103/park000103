@@ -7,17 +7,10 @@
 
 ### :love_letter: Who am I :love_letter:
 <div style="display:flex; flex-direction:row;">
-    - ✏ Majored in Statistics
+    - ✏ Majored in Statistics of Information belongs to SW convergence college,  Bachelor's degree
     <br>
-    - 🍀 Data Analytics, Data Visualization, Machine Learning, Deep Learning, AI, Database
+    - 🍀 Data Analysis, Data Visualization, Machine Learning(ML), Deep Learning(DL), AI, Database, OS, SPSS, R, Django, Keras ...
     
-</div><br>
-
-### 💻 JM's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://park000103.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
 </div><br>
 
 ### 🔨 Once I've used 🔨
@@ -32,6 +25,31 @@
 </div><br>
 </div>
 
+
+### 📊 Certifications 📊
+
+- **Big Data Analysis Engineer** by Korea Data Agency (2024.07)
+- **OPIC (IH)** by ACTFL (2024.02)
+- **TOEIC 830** by YBM (2023.05)
+- **ADsP** - Associate Data Analyst by Korea Data Agency (2023.02)
+- **SQLD** - SQL Developer by Korea Daya Agency (2021.11)
+
+### 👾 Educations 👾
+- TABA_1st (2022.08 - 2022.12)
+- KT AIVLE School 5st (2024.02 - 2024.8)
+
+### 🏆 Awards 🏆
+- **Top Prize 🥇** in Campus SW Academy AI Project (2022)
+- **Excellence Prize 🏅** in Dankook Bike Rental Amount Prediction AI Contest (2022)
+- **Excellence Prize 🏅** in Statistical Talent Donation UCC Contest (2021)
+
+
+### 💻 JM's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://park000103.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+</div><br>
 
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
